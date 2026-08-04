@@ -1,38 +1,108 @@
-![Full Stack Software Engineer | Building Scalable & Interactive Web Experiences](https://scontent-nrt6-1.xx.fbcdn.net/v/t39.30808-6/621937699_122164804490840461_679760345718537412_n.png?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=PYto55mHi1EQ7kNvwGeL212&_nc_oc=AdrDWGEoFqnMB1eySBxTp_rNuxTGi7xMiF3_60C_qLaIRlI7wZXcvLrA0-Sc8Hiwss0&_nc_zt=23&_nc_ht=scontent-nrt6-1.xx&_nc_gid=j_meSvCTYTCLgTKdLHcCJA&_nc_ss=722a8&oh=00_Af5nx54pdcWM43_5MO-d8tYKsXaPjXaCwqqRgi_8AFFRJQ&oe=6A09FE88)
+<h1 align="center">Hi, I'm Al-Amin Ahmed 👋</h1>
+<h3 align="center">Full-Stack Software Engineer — Building Scalable & Interactive Web Experiences</h3>
 
-### Hi there 👋, I'm Al-Amin Ahmed
-#### Full Stack Software Engineer | Building Scalable & Interactive Web Experiences
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Go+%7C+GraphQL;Docker+%7C+AWS+%7C+System+Design" alt="Typing SVG" />
+</p>
 
-I build production-ready web applications using modern technologies with a focus on performance, scalability, and clean architecture. I enjoy solving real-world problems through code and creating systems that are both efficient and maintainable.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alamin-ahmed-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Alaminahmedariyan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://my-portfolio-alpha-orcin-4xkhsnjiby.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.facebook.com/alaminahmed.alamin.562"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
-My core stack includes React, Next.js, TypeScript, Node.js, Go, GraphQL, and cloud-ready infrastructure using Docker & AWS. I work with both SQL and NoSQL databases and write well-tested, reliable code.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alaminahmedariyan&label=Profile%20Views&color=2EA3F7&style=flat" alt="profile views" />
+</p>
 
-I believe great software is not just about features — it's about performance, structure, and user experience.
+---
 
-Skills: Frontend: TypeScript / JavaScript / React / Redux / Next.js / HTML5 / CSS3 Backend: Node.js / Express / Go / GraphQL / Prisma / Mongoose Database: PostgreSQL / MongoDB / SQL / Firebase /RDBMS /DBMS DevOps & Testing: Docker / AWS / Jest / Vitest
+### 🧭 About Me
 
-- 🔭 I’m currently working on Scaling full-stack applications with Next.js and Go microservices. 
-- 🌱 I’m currently learning Advanced System Design, Cloud Native patterns, and Deep diving into Go 
-- 👯 I’m looking to collaborate on Open-source MERN Stack projects and high-performance backend tools. 
-- 🤔 I’m looking for help with Optimizing Docker workflows and implementing advanced AWS architecture. 
-- 💬 Ask me about React, Next.js, Node.js, SQL/NoSQL databases, or building RESTful & GraphQL APIs. 
-- 📫 How to reach me: https://www.linkedin.com/in/alamin-ahmed-536463382?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMB7q2FWlR8qll3Jflf%2FpgA%3D%3D 
-- ⚡ Fun fact: I spend more time in the terminal than in the browser! 
+I build production-ready web applications using modern technologies, with a focus on **performance, scalability, and clean architecture**. I enjoy solving real-world problems through code and creating systems that are both efficient and maintainable — from database schema design to full deployment on cloud infrastructure.
 
+Great software isn't just about features — it's about structure, performance, and the experience it delivers to real users.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alaminahmedariyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Alamin Ahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Alaminahmedariyan)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🛠️ Tech Stack
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alaminahmedariyan)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,html,css,tailwind,nodejs,express,go,graphql,prisma,mongodb,postgres,firebase,docker,aws,jest,vitest,git" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaminahmedariyan)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr><td><b>Frontend</b></td><td>TypeScript, JavaScript, React, Redux, Next.js, HTML5, CSS3, Tailwind CSS</td></tr>
+<tr><td><b>Backend</b></td><td>Node.js, Express, Go, GraphQL, Prisma, Mongoose</td></tr>
+<tr><td><b>Databases</b></td><td>PostgreSQL, MongoDB, SQL, Firebase, RDBMS</td></tr>
+<tr><td><b>DevOps & Testing</b></td><td>Docker, AWS, Jest, Vitest</td></tr>
+</table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaminahmedariyan&show_icons=true&count_private=true)  
+---
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Alaminahmedariyan/contributions?format=svg&private=true)  
+### 🚀 Featured Projects
 
-![GitHub metrics](https://metrics.lecoq.io/Alaminahmedariyan)  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Alaminahmedariyan)  
+#### 🔧 GearUp
+Peer-to-peer gear rental marketplace with role-based dashboards, Stripe payment integration, and Google OAuth authentication. Deployed as a full production stack — Next.js frontend on Vercel, Express backend on Railway.
 
+**Tech:** Next.js · Express · Prisma · PostgreSQL · Stripe
+
+<p>
+<a href="https://b-assignment-5-client.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-2EA3F7?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Alaminahmedariyan/b-assignment-5-client"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Alaminahmedariyan/b7-assignment-5"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 Developer Portfolio
+Personal portfolio showcasing full-stack projects, technical skills, and interactive UI components — built to demonstrate frontend craftsmanship end-to-end.
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS
+
+<p>
+<a href="https://my-portfolio-alpha-orcin-4xkhsnjiby.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-2EA3F7?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Alaminahmedariyan/my-portfolio"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📌 Currently
+
+- 🔭 **Working on:** Scaling full-stack applications with Next.js and Go microservices
+- 🌱 **Learning:** Advanced System Design, Cloud-Native patterns, and Go internals
+- 👯 **Open to collaborate on:** Open-source MERN stack projects and high-performance backend tools
+- 🤔 **Looking for help with:** Optimizing Docker workflows and advanced AWS architecture
+- 💬 **Ask me about:** React, Next.js, Node.js, SQL/NoSQL databases, REST & GraphQL APIs
+- ⚡ **Fun fact:** I spend more time in the terminal than in the browser
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alaminahmedariyan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaminahmedariyan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaminahmedariyan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alaminahmedariyan&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<p align="center"><i>Open to full-stack opportunities — let's build something great together.</i></p>
