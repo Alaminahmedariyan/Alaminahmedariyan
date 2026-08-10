@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alamin-ahmed-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Alaminahmedariyan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://my-portfolio-alpha-orcin-4xkhsnjiby.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alamin-ahmed-dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Alaminahmedariyan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://my-portfolio-alpha-orcin-4xkhsnjiby.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:alaminahmedariyan2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -62,9 +62,9 @@ A full-stack peer-to-peer rental platform with secure auth, listings, bookings, 
 **Tech:** Next.js · Express · Prisma · PostgreSQL · Stripe
 
 <p>
-<a href="https://b-assignment-5-client.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-2EA3F7?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Alaminahmedariyan/b-assignment-5-client"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://github.com/Alaminahmedariyan/b7-assignment-5"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://b-assignment-5-client.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live%20Demo-2EA3F7?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Alaminahmedariyan/b-assignment-5-client" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Alaminahmedariyan/b7-assignment-5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
