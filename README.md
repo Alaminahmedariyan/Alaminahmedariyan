@@ -108,7 +108,7 @@ A backend-focused product discovery & launch platform built around a structured 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaminahmedariyan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Alaminahmedariyan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
