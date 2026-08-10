@@ -58,6 +58,9 @@ I'm a **Full Stack Developer** and **AI Automation Specialist** based in Banglad
 <td width="50%" valign="top">
 
 #### 🔧 GearUp — Equipment Rental Marketplace
+
+<img src="./Screenshot_22.png" width="100%"/>
+
 A full-stack peer-to-peer rental platform with secure auth, listings, bookings, and payments — deployed end-to-end in production.
 
 - Role-based access control (RBAC)
