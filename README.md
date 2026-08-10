@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.svg" width="100%"/>
+</p>
+
 <h1 align="center">Hi, I'm Alamin Islam 👋</h1>
 <h3 align="center">Full-Stack Developer & AI Automation Specialist — Building Scalable Web Apps & Intelligent Automations</h3>
 
@@ -22,6 +26,8 @@
 
 I'm a **Full Stack Developer** and **AI Automation Specialist** based in Bangladesh, focused on building modern, scalable web applications and intelligent automation workflows. I care about clean architecture, secure authentication, and shipping products end-to-end — from database design to production deployment.
 
+- 📍 Sherpur, Bangladesh
+- 📧 alaminahmedariyan2022@gmail.com
 - 🎓 B.Sc. in Mathematics, Sherpur Government College (2020–2024)
 - 💼 Building production-ready apps with the modern React/Node ecosystem
 - 🤖 Designing AI-driven automation pipelines with n8n, Zapier & LangChain
@@ -104,6 +110,7 @@ A backend-focused product discovery & launch platform built around a structured 
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=Alaminahmedariyan&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaminahmedariyan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
