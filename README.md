@@ -104,15 +104,21 @@ A backend-focused product discovery & launch platform built around a structured 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alaminahmedariyan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaminahmedariyan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Alaminahmedariyan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Alaminahmedariyan&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Alaminahmedariyan?label=Followers&style=for-the-badge&color=2EA3F7&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/Alaminahmedariyan?label=Stars&style=for-the-badge&color=2EA3F7&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alaminahmedariyan&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 ---
