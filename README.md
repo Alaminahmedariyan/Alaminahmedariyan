@@ -62,7 +62,7 @@ A full-stack peer-to-peer rental platform with secure auth, listings, bookings, 
 **Tech:** Next.js · Express · Prisma · PostgreSQL · Stripe
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-2EA3F7?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://b-assignment-5-client.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-2EA3F7?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Alaminahmedariyan/b-assignment-5-client"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/Alaminahmedariyan/b7-assignment-5"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
