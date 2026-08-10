@@ -103,8 +103,11 @@ A backend-focused product discovery & launch platform built around a structured 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alaminahmedariyan&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=Alaminahmedariyan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2EA3F7/Alaminahmedariyan" alt="Alamin's GitHub contribution chart" width="90%"/>
 </p>
 
 <p align="center">
