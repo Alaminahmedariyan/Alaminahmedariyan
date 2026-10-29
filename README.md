@@ -4,19 +4,22 @@
   <img src="./banner.png" width="100%" alt="Alamin Islam — Full-Stack Developer and AI Automation Engineer"/>
 </p>
 
+<h1 align="center">Alamin Islam</h1>
+<h3 align="center">Full-Stack Developer · AI Automation</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Development+with+TypeScript;Backend+Engineering+%26+Database+Design;RAG+%26+LLM+Applications+in+Progress;Docker%2C+Nginx+%26+Production+Engineering" alt="Areas of focus"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alamin-ahmed-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/alamin-islam-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Alaminahmedariyan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://my-portfolio-alpha-orcin-4xkhsnjiby.vercel.app"><img src="https://img.shields.io/badge/Portfolio-635BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://alamin-islam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-635BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:alaminahmedariyan2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-00E5C3?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Based%20in-Sherpur%2C%20Bangladesh-00E5C3?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Full--Stack%20%26%20AI%20Roles-7C5CFF?style=flat-square" alt="Open to work"/>
   <img src="https://komarev.com/ghpvc/?username=Alaminahmedariyan&label=Profile%20Views&color=2EA3F7&style=flat-square" alt="Profile views"/>
 </p>
@@ -25,7 +28,7 @@
 
 ## ⚡ About Me
 
-I'm a developer from **Sherpur, Bangladesh**, focused on building practical, maintainable, and user-centered software. I work across the full lifecycle: responsive interfaces, relational database schemas, APIs, third-party integrations, and deployment. I'm also growing into **AI application development**: RAG, LLM integrations, and workflow automation.
+I'm a developer from **Sherpur, Bangladesh**, focused on building practical, maintainable, and user-centered software. I work across the full lifecycle: responsive interfaces, relational database schemas, APIs, payments, third-party integrations, and deployment. I'm also growing into **AI application development**: RAG, LLM integrations, and workflow automation.
 
 <table>
 <tr>
@@ -51,11 +54,23 @@ NestJS · AI engineering · system design
 
 **🎓 Education**
 B.Sc. in Mathematics, Sherpur Government College (2020–2024)
-**🌍 Languages:** Bangla (Native) · English (Conversational)
+
+**🌍 Languages**
+Bangla (Native) · English (Conversational)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🔭 Current Activities
+
+- 🚧 Building **Evalora**, an AI-powered developer assessment platform (Next.js, Express, Prisma, PostgreSQL)
+- 📚 Learning **NestJS** and backend architecture patterns
+- 🤖 Exploring **RAG and LLM applications** with embeddings and pgvector
+- 🐳 Practicing **Docker, Nginx, and CI/CD** for production deployments
+- 🧠 Studying **system design**: caching, queues, and database performance
 
 ---
 
@@ -67,7 +82,7 @@ B.Sc. in Mathematics, Sherpur Government College (2020–2024)
 
 | Area | Technologies |
 |:--|:--|
-| 🎨 **Frontend** | React.js · Next.js App Router · TypeScript · Tailwind CSS · shadcn/ui · React Hook Form · Zod |
+| 🎨 **Frontend** | React.js · Next.js App Router · TypeScript · Tailwind CSS · shadcn/ui · TanStack Query · React Hook Form · Zod |
 | ⚙️ **Backend** | Node.js · Express.js · NestJS *(learning)* · REST APIs · Authentication · Authorization · Validation |
 | 🗄️ **Database** | PostgreSQL · Prisma ORM · SQL · Migrations · Transactions · Query Optimization |
 | 🤖 **AI & Automation** | LLM Integration · RAG Concepts · Embeddings · Semantic Search · pgvector · LangChain · n8n · Zapier · Langflow |
@@ -95,9 +110,31 @@ flowchart LR
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 01 · GearUp
+### 01 · Evalora
+<img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square"/>
+
+**AI-Powered Developer Assessment Platform**
+
+A full-stack platform where companies create, assign, and evaluate technical assessments for developer candidates, with AI-assisted scoring and proctoring.
+
+- 🔐 Role-based access for Admin, Recruiter, and Candidate
+- 📝 MCQ, coding, and written assessments with timed attempts
+- 🛡️ Proctoring: tab switch, fullscreen exit, copy/paste detection
+- 🤖 AI evaluation with human review and candidate reports
+- 💳 Stripe and SSLCommerz payments with Free, Pro, and Enterprise plans
+
+`Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Stripe` `Better Auth`
+
+<a href="https://evalora-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Alaminahmedariyan/Evalora-client"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github"/></a>
+<a href="https://github.com/Alaminahmedariyan/Evalora"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · GearUp
 <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square"/>
 
 **Equipment Rental Marketplace**
@@ -115,45 +152,6 @@ Connects equipment owners with renters through listings, bookings, and payments.
 <a href="https://b-assignment-5-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Alaminahmedariyan/b-assignment-5-client"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github"/></a>
 <a href="https://github.com/Alaminahmedariyan/b7-assignment-5"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github"/></a>
-
-</td>
-<td width="33%" valign="top">
-
-### 02 · LaunchHunt
-<img src="https://img.shields.io/badge/Status-Backend%20Complete-2EA3F7?style=flat-square"/>
-
-**Product Discovery API**
-
-A backend-focused launch platform built on REST design and relational architecture.
-
-- 📡 RESTful product & resource endpoints
-- 🗄️ PostgreSQL schema with Prisma
-- 🧱 Controller / service / route layers
-- 🧪 Tested & explored with Postman
-
-`Node.js` `Express` `Prisma` `PostgreSQL`
-
-<a href="https://github.com/Alaminahmedariyan/launch-hunt"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
-
-</td>
-<td width="33%" valign="top">
-
-### 03 · AI Knowledge Assistant
-<img src="https://img.shields.io/badge/Status-Planned-F59E0B?style=flat-square"/>
-
-**RAG Project Direction**
-
-Retrieves information from private knowledge sources and generates context-grounded answers.
-
-- 📄 Ingestion & chunking
-- 🧠 Embeddings & semantic retrieval
-- 🔍 pgvector search
-- 📌 Answers with source citations
-- 🔒 Retrieval evaluation & access control
-
-`Next.js` `Node.js` `PostgreSQL` `pgvector` `LLM API` `Docker`
-
-<sub>*Planned portfolio project. Demo and source will be added once available.*</sub>
 
 </td>
 </tr>
