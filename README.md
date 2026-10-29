@@ -1,7 +1,7 @@
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Alamin Islam — Full-Stack Software Engineer and AI Application Developer"/>
+  <img src="./banner.png" width="100%" alt="Alamin Islam — Full-Stack Developer and AI Automation Engineer"/>
 </p>
 
 <p align="center">
